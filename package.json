@@ -1,0 +1,23 @@
+{
+  "name": "ig_follow",
+  "version": "1.0.0",
+  "description": "simple ig follow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otgonbayarzz/ig_follow.git"
+  },
+  "author": "Otgonbayar.eb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otgonbayarzz/ig_follow/issues"
+  },
+  "homepage": "https://github.com/otgonbayarzz/ig_follow#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.5.0"
+  }
+}
